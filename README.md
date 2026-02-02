@@ -1,2 +1,2 @@
 # Programming Languages
-This course is part of the Programming Languages curriculum, where we study Java and C#, including solved laboratory exercises and assignments at the Faculty of Electronic Engineering, Department of Computer Science and Informatics, in Niš.
+Practice exercises and solved templates for the “Programming Languages” course at the Faculty of Electronic Engineering, University of Niš.
